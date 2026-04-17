@@ -1,0 +1,133 @@
+﻿U.S. Constitutional Amendment: Legislative Accountability
+Proposed Placement: Article I, Sections 10–16
+Preamble — Purpose and Posture
+The failure of Congress to bring introduced legislation to a recorded floor vote has diminished public accountability and weakened timely consideration of matters of public importance.
+This amendment establishes procedural release mechanisms to compel legislative consideration without mandating legislative outcomes. It preserves representative judgment, debate, amendment, and rejection, while preventing persistent obstruction that suppresses recorded accountability.
+Nothing in this amendment substitutes popular pressure for legislative discretion, alters substantive voting requirements, or compels passage of any bill. 
+Section 10: Discharge Petitions by Citizens
+10.1 Trigger Authority
+The people may file a discharge petition with the Clerk of the House or Senate requesting that a bill:
+* duly introduced under Article I, Section 7, and
+* containing substantive legislative text publicly available for at least 72 hours
+be brought to a recorded yea/nay floor vote in the chamber of origin.
+Placeholder or shell bills are ineligible.
+10.2 Procedural Effect
+A certified petition compels procedural consideration only, consisting of:
+* committee discharge or floor prioritization, and
+* a recorded vote within the same session, barring adjournment sine die.
+Debate and germane amendments remain fully permitted, provided they do not extend or evade the discharge timeline.
+10.3 Thresholds
+Petitions must include signatures equal to:
+* Statutory bills: ≥ 2% of votes cast in the most recent presidential election
+* Constitutional amendments: ≥ 4% of votes cast in the most recent presidential election
+Signatures must be collected and submitted within 365 calendar days.
+Threshold Justification:
+Thresholds are calibrated to demonstrate cross-jurisdictional support sufficient to signal latent legislative majorities while preventing factional, transient, or manipulative capture.
+10.4 Verification (Ministerial)
+The Clerk shall verify petitions using existing lawful verification infrastructure within 30 session days, extendable by 5 for documented capacity constraints.
+Verification duties are ministerial, limited to:
+*  signature validity
+*  threshold sufficiency
+*  compliance with filing requirements
+All verified petitions are placed on the calendar upon certification, with a public audit trail.
+10.5 Disputes and Judicial Review (Post-Placement)
+Challenges to verification or eligibility:
+* do not delay calendaring or placement
+* are adjudicated after placement, on an expedited docket
+* require clear-and-convincing evidence
+Frivolous challenges are dismissed within 5 session days. Challenges are capped at one per party, total ten per bill.
+10.6 Follows Intent Clause
+Petitions must align with the bill’s original legislative intent, defined objectively by:
+* introduced statutory text
+* bill title
+* subject-matter scope evident on the face of the bill
+Substantive changes altering subject-matter scope pause discharge until re-attestation. Clerical or formatting amendments do not break intent.
+The Clerk’s role is verification of objective alignment, not interpretive judgment.
+10.7 Bill Identity Across Terms
+Reintroduced bills with matching statutory text and subject-matter scope may be relinked by Clerk attestation within 5 session days, subject to a 5-day public objection window.
+10.8 Chamber Sequencing
+Petitions apply only to the chamber of origin. Following passage, the second chamber receives a new 30-session-day procedural clock.
+Section 11: Resolutions by Local Entities
+Counties, cities, towns, and tribal governments may file resolutions compelling procedural discharge under the same standards as Section 10.
+Thresholds
+* Statutory bills: resolutions from ≥ one-third of eligible entities
+* Constitutional amendments: ≥ two-fifths of eligible entities
+Verification, calendaring, intent alignment, sequencing, and dispute resolution follow Section 10.
+Section 12: Resolutions by State Legislatures
+States, in their sovereign capacity, may file non-binding resolutions requesting procedural discharge of bills introduced under Article I, Section 7.
+These resolutions:
+* express state interest only
+* compel procedural votes, not outcomes
+* do not invoke Article V authority
+Thresholds
+* Statutory bills: one-third of state legislatures
+* Constitutional amendments: two-fifths of state legislatures
+All other provisions mirror Sections 10–11.
+Section 13: Non-Interference and Timelines
+No committee or officer may block or evade certified procedural discharge.
+If deadlines are missed:
+* the Clerk places the bill on the calendar within 30 session days
+* a public Resolution of Non-Compliance is entered into the Congressional Record
+Judicial enforcement via mandamus is available only for willful, persistent non-compliance after notice and opportunity to cure.
+Section 14: Transparency in Funding and Influence
+Funding related to petitions or resolutions must be disclosed within 72 hours using existing federal disclosure infrastructure.
+Disclosure requirements are narrowly tailored to prevent fraud and undue influence while preserving First Amendment protections.
+No new taxes or appropriations are required.
+Section 15: Public Access and Reporting
+All petitions, certifications, resolutions, and timelines are public within 5 session days.
+The Clerk maintains a public digital registry and publishes standardized templates and guidance within 90 days of ratification.
+Section 16: Senate Boundary Preservation, Harmonization, and Severability
+Nothing in this amendment eliminates the Senate’s constitutional cooling function.
+The Senate may delay procedural votes within defined timelines, provided delays are:
+* publicly justified
+* procedurally grounded
+* time-bounded
+This amendment supplements, but does not supplant, Article I, Section 5 authority. All provisions are severable and self-executing upon ratification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, and clarity. All substantive arguments, theoretical claims, scope decisions, drafting choices, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
