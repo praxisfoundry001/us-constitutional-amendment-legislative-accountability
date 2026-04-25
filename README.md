@@ -40,6 +40,6 @@ Natural companion artifacts in this lane include:
 - *The Constitutional Reflex Amendment: Restoring Legislative Homeostasis by Mandating the Floor Vote*
 
 ## Citation / DOI
-Zenodo DOI: pending
+Zenodo DOI: https://doi.org/10.5281/zenodo.19637019
 
 Full printable PDF available via DOI link after publication.
